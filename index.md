@@ -7,8 +7,11 @@ Famous Quote:
 
 
 ## Table of Contents
+
 1. [About Me](#about-me)
 2. [What I Like](#what-i-like)
+
+
 ### **About Me:**
 
 **Born Perth, Western Australia**           
