@@ -4,10 +4,12 @@
 
 Famous Quote:
 > Hi I'm Sam
+
+
 ## Table of Contents
 1. [About Me](#about-me)
 2. [What I Like](#what-i-like)
-## **About Me:**
+### **About Me:**
 
 **Born Perth, Western Australia**           
 ![Perth, Australia](Images/perth-2986358_1920.jpg)
@@ -27,7 +29,7 @@ int main()
 }
 ```
 
-### **What I like:** ###
+#### **What I like:** ###
 - My new README.md file from this class, you can find it here: [My New CSE110 README!](README.md)
 - Tennis
 - Basketball
